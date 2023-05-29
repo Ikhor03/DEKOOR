@@ -18,7 +18,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://dekoor-lilac.vercel.app/)
 
-I stumbled upon Brittany Chiang's amazing [web portfolio](https://brittanychiang.com/) and was inspired to rebuild it using vanilla CSS, in order to strengthen my fundamental skills and create my own portfolio. While it may not be as great as the original reference, I learned a lot from working on this project and truly enjoyed the process.
+[x] Responsive
+[x] Slicing design
+[] Consume API
+[]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
